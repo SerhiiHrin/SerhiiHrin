@@ -3,7 +3,7 @@
 <!--
 **SerhiiHrin/SerhiiHrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:https://trello.com/b/9inJd8v4/absolutedevelopmentscouk-test1
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
